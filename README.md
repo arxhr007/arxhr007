@@ -1,6 +1,5 @@
 <h1 align="center">AARON THOMAS😇</h1>
 <h3 align="center">just a noob from Kerala,India🏞</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=blinking-idiot&label=Profile%20views&color=0e75b6&style=flat" alt="blinking-idiot" /> </p>
 <img src="https://github-readme-stats.vercel.app/api?username=BLINKING-IDIOT&show_icons=true&theme=chartreuse-dark">
 
 <h3 align="right">❣️“Experience is the name everyone gives to their mistakes.”❣️ – Oscar Wild</h3>
