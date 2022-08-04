@@ -1,5 +1,5 @@
 <h1 align="center">AARON THOMAS😇</h1>
-<h3 align="center">just a noob from Kerala,India🏞</h3>
+<h3 align="center">just a kid from Kerala,India🏞</h3>
 <img src="https://github-readme-stats.vercel.app/api?username=BLINKING-IDIOT&show_icons=true&theme=chartreuse-dark">
 
 <h3 align="right">❣️“Experience is the name everyone gives to their mistakes.”❣️ – Oscar Wild</h3>
