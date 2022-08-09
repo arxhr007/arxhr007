@@ -1,6 +1,6 @@
 <h1 align="center">AARON THOMAS😇</h1>
 <h3 align="center">just a kid from Kerala,India🏞</h3>
-<img src="https://github-readme-stats.vercel.app/api?username=BLINKING-IDIOT&show_icons=true&theme=chartreuse-dark">
+<img src="https://github-readme-stats.vercel.app/api?username=arxhr007&show_icons=true&theme=chartreuse-dark">
 
 <h3 align="right">❣️“Experience is the name everyone gives to their mistakes.”❣️ – Oscar Wild</h3>
 <br>
@@ -42,9 +42,9 @@
 </a> 
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BLINKING-IDIOT&layout=compact&show_icons=true&theme=chartreuse-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arxhr007&layout=compact&show_icons=true&theme=chartreuse-dark)
 
 <br>
 some codes😇:
 <br>
-<a href="https://github.com/BLINKING-IDIOT/Aliens_eye" target="blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BLINKING-IDIOT&repo=Aliens_eye&show_icons=true&theme=chartreuse-dark"></a>
+<a href="https://github.com/BLINKING-IDIOT/Aliens_eye" target="blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arxhr007&repo=Aliens_eye&show_icons=true&theme=chartreuse-dark"></a>
