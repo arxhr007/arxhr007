@@ -4,8 +4,6 @@
 
 <h3 align="right">❣️“Experience is the name everyone gives to their mistakes.”❣️ – Oscar Wild</h3>
 <br>
-- currently learning data structures and algorithms🤖
-<br>
 - I like coffee☕
 <br>
 - contact me:
