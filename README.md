@@ -6,9 +6,6 @@
 <br>
 - I like coffee☕
 <br>
-- contact me:
-<br>
-<a href="https://instagram.com/_arxhr007_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_arxhr007_" height="30" width="40" /></a>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
