@@ -1,6 +1,4 @@
-<h1 align="center"></h1>    <script>
-                    window.location.href="https://www.youtube.com/";
-                </script><h1></h1>
+<h1 align="center">Aaron Thomas</h1>
 <h3 align="center">just a kid from Kerala,India🏞</h3>
 <img src="https://github-readme-stats.vercel.app/api?username=arxhr007&show_icons=true&theme=chartreuse-dark">
 
