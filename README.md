@@ -1,6 +1,13 @@
 <h1 align="center">Aaron Thomas</h1>
 <h3 align="center">just a kid from Kerala,India🏞</h3>
 
+- 🔭 I’m currently working on **so many things**
+
+- 🌱 I’m currently learning **Binary exploitation**
+
+- 💬 Ask me about **python , linux/gnu**
+
+- ⚡ Fun fact **Python is named after Monty Python, not the snake!**
 <p align="center"><img src="https://giffiles.alphacoders.com/220/220278.gif" alt="Bt">
 <h3 align="right">❣️“Experience is the name everyone gives to their mistakes.”❣️ – Oscar Wild</h3>
 <br>
