@@ -4,7 +4,7 @@
 <p align="center"><img src="https://giffiles.alphacoders.com/220/220278.gif" alt="Bt">
 <h3 align="right">❣️“Experience is the name everyone gives to their mistakes.”❣️ – Oscar Wild</h3>
 <br>
-- Currently learning Binary exploitation☕
+- Currently learning art of Binary exploitation☕
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
