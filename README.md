@@ -3,9 +3,16 @@
 ![👋 Hi, my name is Aaron Thomas](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
 <h3 align="right">❣️“Experience is the name everyone gives to their mistakes.”❣️ – Oscar Wild</h3>
-<br>
-- Currently learning art of Binary exploitation☕
-<br>
+
+## 👋 Hi there, I'm Aaron Thomas  
+
+I’m a **passionate coder** exploring the world of **cybersecurity, full-stack development, hardware, and IoT**.  
+
+I have been coding for **nearly 8 years**, learning **cybersecurity for the past 4 years**, and **full-stack development for the past 2 years**.  
+
+I love **building, breaking, and learning** new things every day! 🚀  
+
+I am currently mastering **malware analysis and reverse engineering**. 🔍💻  
 
 <h3 align="left">Languages and Tools:</h3>
 <p>
