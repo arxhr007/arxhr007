@@ -1,7 +1,7 @@
 <h1 align="center">Aaron Thomas</h1>
-<h3 align="center">just a kid from Kerala,India🏞</h3>
 
-<p align="center"><img src="https://giffiles.alphacoders.com/220/220278.gif" alt="Bt">
+![👋 Hi, my name is Aaron Thomas](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
+
 <h3 align="right">❣️“Experience is the name everyone gives to their mistakes.”❣️ – Oscar Wild</h3>
 <br>
 - Currently learning art of Binary exploitation☕
