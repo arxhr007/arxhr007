@@ -8,12 +8,16 @@
 
 I’m a **passionate coder** exploring the world of **cybersecurity, full-stack development, hardware, and IoT**.  
 
-I have been coding for **nearly 8 years**, learning **cybersecurity for the past 4 years**, and **full-stack development for the past 2 years**.  
+I am a **CSE undergraduate** with **nearly 8 years of coding experience**, focusing on **cybersecurity for the past 4 years** and **full-stack development for the past 2 years**.  
 
 I love **building, breaking, and learning** new things every day! 🚀  
 
 I am currently mastering **malware analysis and reverse engineering**. 🔍💻  
 
+<h3 align="left">Feel Free to connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/_arxhr007_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_arxhr007_" height="30" width="40" /></a>
+</p>
 <h3 align="left">Languages and Tools:</h3>
 <p>
 
