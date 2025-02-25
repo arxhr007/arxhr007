@@ -90,15 +90,23 @@ I am currently working on **AI based Metamorphic engine for evading Signature-Ba
     
 
 <br>
-some projects😇:
+projects😇:
 <br>
 
 
-- `🛸` **[Aliens Eye](https://github.com/arxhr007/Aliens_eye)**<br>
+- `🛸` **[Aliens-Eye](https://github.com/arxhr007/Aliens_eye)**<br>
 \\___ Hunt down 570 social media accounts.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `.py`, `.sh`<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_⭐`275+ stars`<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `python`, `bash`<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_🌟`275+ stars`<br>
 
+- `💥` **[Wifi-Strike](https://github.com/arxhr007/wifistrike)**<br>
+\\___ Pure python Automated wifi deauther.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `python`, `bash`<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_🌟`14 stars`<br>
+
+- `🔎` **[Etlab-scrapper](https://github.com/arxhr007/bunk)**<br>
+\\___Web app for scraping attendance and calculating statistics from an ET-lab.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `html`, `tailwind`, `javascript`,`python`<br>
 
 
 <!--
