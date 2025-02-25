@@ -90,7 +90,7 @@ projects😇:
 
 
 - `🛸` **[Aliens-Eye](https://github.com/arxhr007/Aliens_eye)**<br>
-\\___ Hunt down 570 social media accounts.<br>
+\\___ Hunt down 570 social media accounts. OSINT tool<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `python`, `bash`<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_🌟`275+ stars`<br>
 
