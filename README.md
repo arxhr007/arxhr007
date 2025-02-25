@@ -6,7 +6,7 @@
 
 ## 👋 Hi there, I'm Aaron Thomas  
 
-I’m a **passionate coder** exploring the world of **cybersecurity, full-stack development, hardware, and IoT**.  
+I’m a **passionate coder** exploring the world of **cybersecurity, full-stack development, hardware and IoT**.  
 
 I am a **CSE undergraduate** with **nearly 9 years of coding experience**, focusing on **cybersecurity for the past 4 years** and **full-stack development for the past 2 years**.  
 
