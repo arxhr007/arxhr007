@@ -94,8 +94,8 @@ projects😇:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `python`, `bash`<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_🌟`275+ stars`<br>
 
-- `💥` **[Wifi-Strike](https://github.com/arxhr007/wifistrike)**<br>
-\\___ Pure python Automated wifi deauther.<br>
+- `💉` **[Wifi-Strike](https://github.com/arxhr007/wifistrike)**<br>
+\\___ Pure python Automated wifi deauther and packet injection.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `python`, `bash`<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_🌟`14 stars`<br>
 
