@@ -86,7 +86,6 @@ I am currently working on **AI based Metamorphic engine for evading Signature-Ba
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
     </p>
     
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arxhr007&layout=compact&show_icons=true&theme=chartreuse-dark)
 
 <br>
 some codes😇:
