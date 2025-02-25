@@ -90,8 +90,14 @@ I am currently working on **AI based Metamorphic engine for evading Signature-Ba
     
 
 <br>
-some codes😇:
+some projects😇:
 <br>
+
+- `💉` **`Aliens eye`**<br>
+\\___[ Hunt down 570 social media accounts.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `.py`, `.sh`
+
+<!--
 <a href="https://github.com/arxhr007/Aliens_eye" target="blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arxhr007&repo=Aliens_eye&show_icons=true&theme=chartreuse-dark"></a>
-<a href="https://github.com/arxhr007/wifistrike" target="blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arxhr007&repo=wifistrike&show_icons=true&theme=chartreuse-dark"></a>
+<a href="https://github.com/arxhr007/wifistrike" target="blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arxhr007&repo=wifistrike&show_icons=true&theme=chartreuse-dark"></a> -->
 
