@@ -93,9 +93,13 @@ I am currently working on **AI based Metamorphic engine for evading Signature-Ba
 some projects😇:
 <br>
 
-- `💉` **`Aliens eye`**<br>
-\\___[ Hunt down 570 social media accounts.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `.py`, `.sh`
+
+- `🛸` **[Aliens Eye](https://github.com/arxhr007/Aliens_eye)**<br>
+\\___ Hunt down 570 social media accounts.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `.py`, `.sh`<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_⭐`275+ stars`<br>
+
+
 
 <!--
 <a href="https://github.com/arxhr007/Aliens_eye" target="blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arxhr007&repo=Aliens_eye&show_icons=true&theme=chartreuse-dark"></a>
