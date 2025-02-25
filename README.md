@@ -108,6 +108,11 @@ projects😇:
 \\___Web app for scraping attendance and calculating statistics from an ET-lab.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `html`, `tailwind`, `javascript`,`python`<br>
 
+- `🎮` **[Gamer-tux](https://github.com/arxhr007/Gamer-tux)**<br>
+\\___Play 40 games in linux terminal.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `bash`<br>
+
+
 
 <!--
 <a href="https://github.com/arxhr007/Aliens_eye" target="blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arxhr007&repo=Aliens_eye&show_icons=true&theme=chartreuse-dark"></a>
