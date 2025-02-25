@@ -10,9 +10,7 @@ I’m a **passionate coder** exploring the world of **cybersecurity, full-stack 
 
 I am a **CSE undergraduate** with **nearly 9 years of coding experience**, focusing on **cybersecurity for the past 4 years** and **full-stack development for the past 2 years**.  
 
-I love **building, breaking, and learning** new things every day! 🚀  
-
-I am currently working on **AI based Metamorphic engine for evading Signature-Based Malware Detection**. 🔍💻  
+I am a fast **prototype builder** and **automation script** expert, streamlining development and bringing concepts to life quickly! 🚀
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -109,6 +107,7 @@ projects😇:
 \\___Play 40 games in linux terminal.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `bash`<br>
 
+I am currently working on **AI based Metamorphic engine for evading Signature-Based Malware Detection** using `c` and `python`. 🔍💻  
 
 <h3 align="left">Feel Free to connect with me:</h3>
 <p align="left">
