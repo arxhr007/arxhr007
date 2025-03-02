@@ -85,7 +85,9 @@ I am a fast **prototype builder** and **automation script** expert, streamlining
     
 
 <br>
-projects😇:
+
+## projects😇:
+
 <br>
 
 
