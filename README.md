@@ -1,10 +1,9 @@
 <h1 align="center">ARXHR007</h1>
 
+
 ![👋 Hi, my name is Aaron Thomas](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
-<h3 align="right">❣️“Experience is the name everyone gives to their mistakes.”❣️ – Oscar Wild</h3>
-
-## 👋 Hi there, I'm Aaron Thomas  
+***
 
 I’m a **passionate coder** exploring the world of **cybersecurity, full-stack development, hardware and IoT**.  
 
@@ -12,6 +11,7 @@ I am a **CSE undergraduate** with **nearly 9 years of coding experience**, focus
 
 I am a fast **prototype builder** and **automation script** expert, streamlining development and bringing concepts to life quickly! 🚀
 
+***
 
 <h3 align="left">Languages and Tools:</h3>
 <p>
@@ -83,8 +83,8 @@ I am a fast **prototype builder** and **automation script** expert, streamlining
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
     </p>
     
-
-<br>
+___
+ 
 
 ## projects😇:
 
