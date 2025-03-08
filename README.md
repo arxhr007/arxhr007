@@ -106,10 +106,6 @@ ___
 
 I am currently working on **AI based Metamorphic engine for evading Signature-Based Malware Detection** using `c` and `python`. 🔍💻  
 
-<h3 align="left">Feel Free to connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/_arxhr007_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_arxhr007_" height="30" width="40" /></a>
-</p>
 <!--
 <a href="https://github.com/arxhr007/Aliens_eye" target="blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arxhr007&repo=Aliens_eye&show_icons=true&theme=chartreuse-dark"></a>
 <a href="https://github.com/arxhr007/wifistrike" target="blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arxhr007&repo=wifistrike&show_icons=true&theme=chartreuse-dark"></a> -->
