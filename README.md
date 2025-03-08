@@ -1,11 +1,46 @@
 <h1 align="center">ARXHR007</h1>
 
 
-![👋 Hi, my name is Aaron Thomas](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Playing+Guess+That+Offset+with+ASLR;Staring+at+a+crashed+shellcode;Arguing+with+IDA+about+functions;ROP+chain+shopping%2C+no+discounts;Reversing+an+ELF%2C+no+symbols%2C+just+pain)](https://git.io/typing-svg)
 
-***
+___
+
 
 🧞**Me**: A **CSE** undergraduate specializing in **cybersecurity** and **full-stack development**. As an offensive security enthusiast, I focus on **offensive development**, **reverse engineering**, **red teaming** and for **full-stack** i do **MERN stack** and **serverless full-stack development**.
+***
+
+
+ 
+
+## projects:
+
+<br>
+
+
+- `🛸` **[Aliens-Eye](https://github.com/arxhr007/Aliens_eye)**<br>
+\\___ Hunt down 570 social media accounts. OSINT tool<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `python`, `bash`<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_🌟`280+ stars`<br>
+
+- `💉` **[Wifi-Strike](https://github.com/arxhr007/wifistrike)**<br>
+\\___ Pure python Automated wifi deauther and packet injection.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `python`, `bash`<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_🌟`14 stars`<br>
+
+- `🔎` **[Etlab-scrapper](https://github.com/arxhr007/bunk)**<br>
+\\___Web app for scraping attendance and calculating statistics from an ET-lab.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `html`, `tailwind`, `javascript`,`python`<br>
+
+- `🎮` **[Gamer-tux](https://github.com/arxhr007/Gamer-tux)**<br>
+\\___Play 40 games in linux terminal.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `bash`<br>
+
+🩸 I am currently working on **AI based Metamorphic engine for evading Signature-Based Malware Detection** using `c` , `asm` and `python`. 🔍💻  
+
+<!--
+<a href="https://github.com/arxhr007/Aliens_eye" target="blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arxhr007&repo=Aliens_eye&show_icons=true&theme=chartreuse-dark"></a>
+<a href="https://github.com/arxhr007/wifistrike" target="blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arxhr007&repo=wifistrike&show_icons=true&theme=chartreuse-dark"></a> -->
+
 ***
 
 <h3 align="left">Languages and Tools:</h3>
@@ -78,35 +113,3 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
     </p>
     
-___
- 
-
-## projects:
-
-<br>
-
-
-- `🛸` **[Aliens-Eye](https://github.com/arxhr007/Aliens_eye)**<br>
-\\___ Hunt down 570 social media accounts. OSINT tool<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `python`, `bash`<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_🌟`280+ stars`<br>
-
-- `💉` **[Wifi-Strike](https://github.com/arxhr007/wifistrike)**<br>
-\\___ Pure python Automated wifi deauther and packet injection.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `python`, `bash`<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_🌟`14 stars`<br>
-
-- `🔎` **[Etlab-scrapper](https://github.com/arxhr007/bunk)**<br>
-\\___Web app for scraping attendance and calculating statistics from an ET-lab.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `html`, `tailwind`, `javascript`,`python`<br>
-
-- `🎮` **[Gamer-tux](https://github.com/arxhr007/Gamer-tux)**<br>
-\\___Play 40 games in linux terminal.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `bash`<br>
-
-I am currently working on **AI based Metamorphic engine for evading Signature-Based Malware Detection** using `c` , `asm` and `python`. 🔍💻  
-
-<!--
-<a href="https://github.com/arxhr007/Aliens_eye" target="blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arxhr007&repo=Aliens_eye&show_icons=true&theme=chartreuse-dark"></a>
-<a href="https://github.com/arxhr007/wifistrike" target="blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arxhr007&repo=wifistrike&show_icons=true&theme=chartreuse-dark"></a> -->
-
