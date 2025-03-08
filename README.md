@@ -5,12 +5,7 @@
 
 ***
 
-I’m a **passionate coder** exploring the world of **cybersecurity, full-stack development, hardware and IoT**.  
-
-I am a **CSE undergraduate** with **nearly 9 years of coding experience**, focusing on **cybersecurity for the past 4 years** and **full-stack development for the past 2 years**.  
-
-I am a fast **prototype builder** and **automation script** expert, streamlining development and bringing concepts to life quickly! 🚀
-
+🧞**Me**: A **CSE** undergraduate specializing in **cybersecurity** and **full-stack development**. As an offensive security enthusiast, I focus on **offensive development**, **reverse engineering**, **red teaming** and for **full-stack** i do **MERN stack** and **serverless full-stack development**.
 ***
 
 <h3 align="left">Languages and Tools:</h3>
@@ -86,7 +81,7 @@ I am a fast **prototype builder** and **automation script** expert, streamlining
 ___
  
 
-## projects😇:
+## projects:
 
 <br>
 
