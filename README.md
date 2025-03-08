@@ -89,7 +89,7 @@ ___
 - `🛸` **[Aliens-Eye](https://github.com/arxhr007/Aliens_eye)**<br>
 \\___ Hunt down 570 social media accounts. OSINT tool<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `python`, `bash`<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_🌟`275+ stars`<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_🌟`280+ stars`<br>
 
 - `💉` **[Wifi-Strike](https://github.com/arxhr007/wifistrike)**<br>
 \\___ Pure python Automated wifi deauther and packet injection.<br>
