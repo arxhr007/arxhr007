@@ -104,7 +104,7 @@ ___
 \\___Play 40 games in linux terminal.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `bash`<br>
 
-I am currently working on **AI based Metamorphic engine for evading Signature-Based Malware Detection** using `c` and `python`. 🔍💻  
+I am currently working on **AI based Metamorphic engine for evading Signature-Based Malware Detection** using `c` , `asm` and `python`. 🔍💻  
 
 <!--
 <a href="https://github.com/arxhr007/Aliens_eye" target="blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arxhr007&repo=Aliens_eye&show_icons=true&theme=chartreuse-dark"></a>
