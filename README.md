@@ -1,7 +1,7 @@
 <h1 align="center">ARXHR007</h1>
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Playing+Guess+That+Offset+with+ASLR;Staring+at+a+crashed+shellcode;Arguing+with+IDA+about+functions;ROP+chain+shopping%2C+no+discounts;Reversing+an+ELF%2C+no+symbols%2C+just+pain)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Playing+Guess+That+Offset+with+ASLR;ROP+chain+shopping+%2C+no+discounts;Extracting+C2+domain+Found+127.0.0.1;No+symbols%2C+Just+pain;Debugging+ntdll.dll.+Send+snacks)](https://git.io/typing-svg)
 
 ___
 
