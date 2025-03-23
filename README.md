@@ -35,6 +35,10 @@ ___
 \\___Play 40 games in linux terminal.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `bash`<br>
 
+- `🌙` **[NYXORA](https://github.com/arxhr007/nyxora)**<br>
+\\___Store Dreams , analyze dreams , sleep.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `React`, `tailwind`, `Firebase`<br>
+
 🩸 I am currently working on **AI based Metamorphic engine for evading Signature-Based Malware Detection** using `c` , `asm` and `python`. 🔍💻  
 
 <!--
