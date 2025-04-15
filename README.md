@@ -27,13 +27,13 @@ ___
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `python`, `bash`<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_🌟`14 stars`<br>
 
+- `🪱` **[Malware-Sandbox-Evasion](https://github.com/arxhr007/Malware-Sandbox-Evasion)**<br>
+\\___Notes on how malware detects and evades sandboxes with practical examples.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `c`, `MarkDown`<br>
+
 - `🔎` **[Etlab-scrapper](https://github.com/arxhr007/bunk)**<br>
 \\___Web app for scraping attendance and calculating statistics from an ET-lab.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `html`, `tailwind`, `javascript`,`python`<br>
-
-- `🎮` **[Gamer-tux](https://github.com/arxhr007/Gamer-tux)**<br>
-\\___Play 40 games in linux terminal.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `bash`<br>
 
 - `🌙` **[NYXORA](https://github.com/arxhr007/nyxora)**<br>
 \\___Store Dreams , analyze dreams , sleep.<br>
