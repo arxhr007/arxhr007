@@ -10,7 +10,9 @@ ___
 ***
 
 
- 
+💼 **Open to work**: Looking for opportunities in **cybersecurity** and **full-stack development**.
+
+🤝 Also available for **freelancing** projects — feel free to reach out!
 
 ## projects:
 
