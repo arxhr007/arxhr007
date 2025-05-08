@@ -22,25 +22,25 @@ ___
 
 
 - `🛸` **[Aliens-Eye](https://github.com/arxhr007/Aliens_eye)**<br>
-\\___ Hunt down 700+ social media accounts using AI . OSINT tool<br>
+\\___ Hunt down **700+ social media** accounts using **AI** . **OSINT** tool<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `python`, `bash`<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_🌟`300+ stars`<br>
 
 - `💉` **[Wifi-Strike](https://github.com/arxhr007/wifistrike)**<br>
-\\___ Pure python Automated wifi deauther and packet injection.<br>
+\\___ Pure python Automated **WiFi Deauther** and packet injection.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `python`, `bash`<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_🌟`16 stars`<br>
 
 - `🪱` **[Malware-Sandbox-Evasion](https://github.com/arxhr007/Malware-Sandbox-Evasion)**<br>
-\\___Notes on how malware detects and evades sandboxes with practical examples.<br>
+\\___Notes on how **Malware detects** and **Evades sandboxes** with practical examples.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `c`, `MarkDown`<br>
 
 - `🔎` **[Etlab-scrapper](https://github.com/arxhr007/bunk)**<br>
-\\___Web app for scraping attendance and calculating statistics from an ET-lab.<br>
+\\___Web app for scraping attendance and calculating statistics from an **ET-lab**.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `html`, `tailwind`, `javascript`,`python`<br>
 
 - `🌙` **[NYXORA](https://github.com/arxhr007/nyxora)**<br>
-\\___Store Dreams , analyze dreams , sleep.<br>
+\\___Share Dreams ,Track sleep and Analyze Dreams using **AI**.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `React`, `tailwind`, `Firebase`<br>
 
 🩸 I am currently working on **AI based Metamorphic engine for evading Signature-Based Malware Detection** using `c` , `asm` and `python`. 🔍💻  
