@@ -32,7 +32,7 @@ ___
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_🌟`16 stars`<br>
 
 - `🪱` **[Malware-Sandbox-Evasion](https://github.com/arxhr007/Malware-Sandbox-Evasion)**<br>
-\\___Notes on how **Malware detects** and **Evades sandboxes** with practical examples.<br>
+\\__Advanced **Malware** sandbox evasion using C.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `c`, `MarkDown`<br>
 
 - `🔎` **[Etlab-scrapper](https://github.com/arxhr007/bunk)**<br>
