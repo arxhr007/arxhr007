@@ -14,20 +14,22 @@ ___
 
 🤝 Also available for **freelancing** projects — feel free to reach out!
 
+📫 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="16" alt="email icon" /> **aaron123thomas098@gmail.com**
+
 ## projects:
 
 <br>
 
 
 - `🛸` **[Aliens-Eye](https://github.com/arxhr007/Aliens_eye)**<br>
-\\___ Hunt down 570 social media accounts. OSINT tool<br>
+\\___ Hunt down 700+ social media accounts using AI . OSINT tool<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `python`, `bash`<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_🌟`280+ stars`<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_🌟`300+ stars`<br>
 
 - `💉` **[Wifi-Strike](https://github.com/arxhr007/wifistrike)**<br>
 \\___ Pure python Automated wifi deauther and packet injection.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `python`, `bash`<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_🌟`14 stars`<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_🌟`16 stars`<br>
 
 - `🪱` **[Malware-Sandbox-Evasion](https://github.com/arxhr007/Malware-Sandbox-Evasion)**<br>
 \\___Notes on how malware detects and evades sandboxes with practical examples.<br>
