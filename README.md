@@ -22,7 +22,7 @@ ___
 
 
 - `🛸` **[Aliens-Eye](https://github.com/arxhr007/Aliens_eye)**<br>
-\\___ Hunt down **700+ social media** accounts using **AI** . **OSINT** tool<br>
+\\___ Hunt down **840+ social media** accounts using **AI** . **OSINT** tool<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `python`, `bash`<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_🌟`300+ stars`<br>
 
