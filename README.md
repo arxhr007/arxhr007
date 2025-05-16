@@ -23,25 +23,29 @@ ___
 
 - `🛸` **[Aliens-Eye](https://github.com/arxhr007/Aliens_eye)**<br>
 \\___ Hunt down **840+ social media** accounts using **AI** . **OSINT** tool<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `python`, `bash`<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `Python`, `Bash`<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_🌟`300+ stars`<br>
 
 - `💉` **[Wifi-Strike](https://github.com/arxhr007/wifistrike)**<br>
 \\___ Pure python Automated **WiFi Deauther** and packet injection.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `python`, `bash`<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `Python`, `Bash`<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_🌟`16 stars`<br>
 
 - `🪱` **[Malware-Sandbox-Evasion](https://github.com/arxhr007/Malware-Sandbox-Evasion)**<br>
 \\__Advanced **Malware** sandbox evasion using C.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `c`, `MarkDown`<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `C`, `MarkDown`<br>
+
+- `🍃` **[Amma](https://github.com/arxhr007/amma)**<br>
+\\__A **malayalam** Programming language & **Interpreter** .<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `Rust`<br>
 
 - `🔎` **[Etlab-scrapper](https://github.com/arxhr007/bunk)**<br>
 \\___Web app for scraping attendance and calculating statistics from an **ET-lab**.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `html`, `tailwind`, `javascript`,`python`<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `Html`, `Tailwind`, `Javascript`,`Python`<br>
 
 - `🌙` **[NYXORA](https://github.com/arxhr007/nyxora)**<br>
 \\___Share Dreams ,Track sleep and Analyze Dreams using **AI**.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `React`, `tailwind`, `Firebase`<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `React`, `Tailwind`, `Firebase`<br>
 
 🩸 I am currently working on **AI based Metamorphic engine for evading Signature-Based Malware Detection** using `c` , `asm` and `python`. 🔍💻  
 
