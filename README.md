@@ -29,7 +29,7 @@ ___
 - `💉` **[Wifi-Strike](https://github.com/arxhr007/wifistrike)**<br>
 \\___ Pure python Automated **WiFi Deauther** and packet injection.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `Python`, `Bash`<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_🌟`16 stars`<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_🌟`20 stars`<br>
 
 - `🪱` **[Malware-Sandbox-Evasion](https://github.com/arxhr007/Malware-Sandbox-Evasion)**<br>
 \\__Advanced **Malware** sandbox evasion using C.<br>
