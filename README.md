@@ -6,7 +6,7 @@
 ___
 
 
-🧞**Me**: A **CSE** undergraduate specializing in **cybersecurity** and **full-stack development**. As an offensive security enthusiast, I focus on **offensive development**, **reverse engineering**, **red teaming** and for **full-stack** i do **MERN stack** and **serverless full-stack development**.
+🧞**Me**: A **CSE** undergraduate specializing in **cybersecurity** and **full-stack development**. As an cyber-security enthusiast, I focus on **offensive development**, **reverse engineering**, **red teaming** and for **full-stack** i do **MERN stack** and **serverless full-stack development**.
 ***
 
 
