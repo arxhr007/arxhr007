@@ -1,4 +1,4 @@
-<h1 align="center">ARXHR007</h1>
+<h1 align="center">RANDOM KID FROM COCONUT WORLD 🥥🌴</h1>
 
 ![banner](https://raw.githubusercontent.com/arxhr007/arxhr007/refs/heads/main/mybanner.png)
 ___
