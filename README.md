@@ -1,9 +1,6 @@
 <h1 align="center">ARXHR007</h1>
 
-
-<p align="center">
-  <img src="https://s2.ezgif.com/tmp/ezgif-26e8b50ae98d1c.gif" alt="GIF" />
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Playing+Guess+That+Offset+with+ASLR;ROP+chain+shopping+%2C+no+discounts;Extracting+C2+domain+Found+127.0.0.1;No+symbols%2C+Just+pain;Debugging+ntdll.dll.+Send+snacks)](https://git.io/typing-svg)
 
 ___
 
