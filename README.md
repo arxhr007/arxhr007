@@ -1,6 +1,6 @@
 <h1 align="center">RANDOM KID FROM COCONUT WORLD 🥥🌴</h1>
 
-![banner](https://raw.githubusercontent.com/arxhr007/arxhr007/refs/heads/main/mybanner.png)
+![banner](https://github.com/arxhr007/arxhr007/blob/main/White%20and%20Blue%20Memphis%20Graphic%20Designer%20LinkedIn%20Banner(1).png?raw=true)
 ___
 
 
