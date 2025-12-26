@@ -1,10 +1,13 @@
-<h1 align="center">RANDOM KID FROM COCONUT WORLD 🥥🌴</h1>
+<h1 align="center">RANDOM KID FROM COCONUT LAND 🥥🌴</h1>
 
 ![banner](https://github.com/arxhr007/arxhr007/blob/main/White%20and%20Blue%20Memphis%20Graphic%20Designer%20LinkedIn%20Banner(1).png?raw=true)
 ___
 
 
 🧞**Me**: A **CSE** undergraduate specializing in **cybersecurity** and **full-stack development**. As an cyber-security enthusiast, I focus on **offensive development**, **reverse engineering**, **red teaming** and for **full-stack** i do **MERN stack** and **serverless full-stack development**.
+
+🩸 Currently exploring **AI / ML** — experimenting, learning, and building cool stuff.
+
 ***
 
 
@@ -44,8 +47,9 @@ ___
 - `🌙` **[NYXORA](https://github.com/arxhr007/nyxora)**<br>
 \\___Share Dreams ,Track sleep and Analyze Dreams using **AI**.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `React`, `Tailwind`, `Firebase`<br>
+<!--
 
-🩸 I am currently working on **AI based Metamorphic engine for evading Signature-Based Malware Detection** using `c` , `asm` and `python`. 🔍💻  
+🩸 I am currently working on **AI based Metamorphic engine for evading Signature-Based Malware Detection** using `c` , `asm` and `python`. 🔍💻   -->
 
 <!--
 <a href="https://github.com/arxhr007/Aliens_eye" target="blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arxhr007&repo=Aliens_eye&show_icons=true&theme=chartreuse-dark"></a>
