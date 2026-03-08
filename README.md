@@ -11,7 +11,7 @@ ___
 ***
 
 
-💼 **Open to work**: Looking for opportunities in **cybersecurity** and **full-stack development**.
+💼 **Open to work**: Looking for opportunities in **cybersecurity** , **full-stack development** and **AI/ML**.
 
 🤝 Also available for **freelancing** projects — feel free to reach out!
 
@@ -44,9 +44,9 @@ ___
 \\___Web app for scraping attendance and calculating statistics from an **ET-lab**.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `Html`, `Tailwind`, `Javascript`,`Python`<br>
 
-- `🌙` **[NYXORA](https://github.com/arxhr007/nyxora)**<br>
-\\___Share Dreams ,Track sleep and Analyze Dreams using **AI**.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `React`, `Tailwind`, `Firebase`<br>
+- `🤖` **[Sahrdaya RagX](https://github.com/arxhr007/sahrdaya_ragx)**<br>
+\\___RAG chatbot for Sahrdaya College with hybrid retrieval and LLM-generated SQL for faculty queries.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `Python`, `LangChain`, `FAISS + BM25`<br>
 <!--
 
 🩸 I am currently working on **AI based Metamorphic engine for evading Signature-Based Malware Detection** using `c` , `asm` and `python`. 🔍💻   -->
