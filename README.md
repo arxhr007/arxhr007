@@ -4,9 +4,14 @@
 ___
 
 
-🧞**Me**: A **CSE** undergraduate specializing in **cybersecurity** and **full-stack development**. As an cyber-security enthusiast, I focus on **offensive development**, **reverse engineering**, **red teaming** and for **full-stack** i do **MERN stack** and **serverless full-stack development**.
+🧞**Me**: A **Full-Stack & AI/ML Engineer**. 
 
-🩸 Currently exploring **AI / ML** — experimenting, learning, and building cool stuff.
+🌴 I build things like **compilers using Rust** to **full-stack web apps for government LMS platform**.
+
+🩸 Currently focusing on AI/ML -  experimenting, learning, and building cool stuff.
+
+👾 **Side Quest**: I also do a little bit of **Cybersecurity** as a side quest ,mostly offensive development and reverse engineering.
+
 
 ***
 
