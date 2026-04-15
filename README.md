@@ -15,31 +15,32 @@ CSE undergraduate, Full-Stack & AI/ML Engineer. I build everything from Rust-bas
 <br>
 
 
-- `🛸` **[Aliens-Eye](https://github.com/arxhr007/Aliens_eye)**<br>
+-  **[Aliens-Eye](https://github.com/arxhr007/Aliens_eye)**<br>
 \\___ Hunt down **840+ social media** accounts using **AI** . **OSINT** tool<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `Python`, `Bash`<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_🌟`400+ stars`<br>
 
-- `🍃` **[Amma](https://github.com/arxhr007/amma)**<br>
+-  **[Amma](https://github.com/arxhr007/amma)**<br>
 \\__A **malayalam** Programming language & **Interpreter** .<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `Rust`<br>
 
-- `💉` **[Wifi-Strike](https://github.com/arxhr007/wifistrike)**<br>
+- **[Sahrdaya RagX](https://github.com/arxhr007/sahrdaya_ragx)**<br>
+\\___Dynamic RAG system for Sahrdaya College with hybrid retrieval and  Data ingestion.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `FastAPI`, `LangChain`, `FAISS + BM25`<br>
+
+- **[NeuroLearn](https://github.com/arxhr007/neurolearn)**<br>
+\\___Malayalam Adaptive AI Tutor for Neurodivergent Learners.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `FastAPI`, `LangGraph`, `ChromaDB`<br>
+
+-  **[Wifi-Strike](https://github.com/arxhr007/wifistrike)**<br>
 \\___ Pure python Automated **WiFi Deauther** and packet injection.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `Python`, `Bash`<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_🌟`30 stars`<br>
 
-- `🪱` **[Malware-Sandbox-Evasion](https://github.com/arxhr007/Malware-Sandbox-Evasion)**<br>
+-  **[Malware-Sandbox-Evasion](https://github.com/arxhr007/Malware-Sandbox-Evasion)**<br>
 \\__Advanced **Malware** sandbox evasion using C.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `C`, `MarkDown`<br>
 
-- `🔎` **[Etlab-scrapper](https://github.com/arxhr007/bunk)**<br>
-\\___Web app for scraping attendance and calculating statistics from an **ET-lab**.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `Html`, `Tailwind`, `Javascript`,`Python`<br>
 
-- `🤖` **[Sahrdaya RagX](https://github.com/arxhr007/sahrdaya_ragx)**<br>
-\\___RAG chatbot for Sahrdaya College with hybrid retrieval and LLM-generated SQL for faculty queries.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `Python`, `LangChain`, `FAISS + BM25`<br>
+
 <!--
 
 🩸 I am currently working on **AI based Metamorphic engine for evading Signature-Based Malware Detection** using `c` , `asm` and `python`. 🔍💻   -->
