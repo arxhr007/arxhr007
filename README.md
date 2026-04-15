@@ -4,7 +4,7 @@
 
 ### Aaron Thomas
 
-CSE undergraduate, Full-Stack & AI/ML Engineer. I build everything from Rust-based compilers to full-stack systems, including government LMS platforms. Formerly focused on cybersecurity (offensive development & reverse engineering). Now exploring AI/ML, intelligent systems, and data-driven applications.
+CSE undergraduate, Full-Stack & AI/ML Engineer. I build everything from Rust-based compilers to full-stack systems, including government LMS and College CMS Platforms. After years of exploring the depths of cybersecurity and reverse engineering, I’ve pivoted to AI/ML engineering specifically focused on LLM-based applications and AI agents.
 
 <br clear="right"/>
 
