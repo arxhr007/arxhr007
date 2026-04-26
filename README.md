@@ -8,7 +8,7 @@ CSE undergraduate, Full-Stack & AI/ML Engineer. I build everything from Rust bas
 
 <br clear="right"/>
 
-• [Portfolio Website](https://arxhr007.github.io/) • [Personal Website](https://arxhr007.tech) • [Blog Website](https://arxhr007.tech/blog) • [Resume](https://arxhr007.tech/Aaron_Thomas.pdf)
+• [Portfolio Website](https://arxhr007.github.io/) • [Personal Website](https://arxhr007.tech) • [Blog Website](https://arxhr007.tech/blog) • [Resume](https://arxhr007.tech/Aaron_Thomas.pdf) •
 
 ***
 
