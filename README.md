@@ -8,6 +8,8 @@ CSE undergraduate, Full-Stack & AI/ML Engineer. I build everything from Rust bas
 
 <br clear="right"/>
 
+• [Portfolio Website](https://arxhr007.github.io/)
+
 ***
 
 ## projects:
