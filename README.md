@@ -6,7 +6,14 @@ CSE undergraduate, Full-Stack & AI/ML Engineer. I build everything from Rust bas
 
 <br clear="right"/>
 
-• [Portfolio](https://arxhr007.github.io/) • [Personal](https://arxhr007.tech) • [Blog](https://arxhr007.tech/blog) • [Resume](https://arxhr007.tech/Aaron_Thomas.pdf) •
+
+<p align="center">
+  • <a href="https://arxhr007.github.io/">Portfolio</a>
+  • <a href="https://arxhr007.tech">Personal</a>
+  • <a href="https://arxhr007.tech/blog">Blog</a>
+  • <a href="https://arxhr007.tech/Aaron_Thomas.pdf">Resume</a>
+  • 
+</p>
 
 ***
 
@@ -16,7 +23,7 @@ CSE undergraduate, Full-Stack & AI/ML Engineer. I build everything from Rust bas
 
 
 -  **[Aliens-Eye](https://github.com/arxhr007/Aliens_eye)**<br>
-\\___ Hunt down **840+ social media** accounts using **AI** . **OSINT** tool<br>
+\\___ **AI**-powered **OSINT** engine to discover and map **840+** social media identities across the web<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `Python`, `Bash`<br>
 
 -  **[Amma](https://github.com/arxhr007/amma)**<br>
