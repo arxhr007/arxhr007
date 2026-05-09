@@ -23,7 +23,7 @@ CSE undergraduate, Full-Stack & AI/ML Engineer. I build everything from Rust bas
 
 
 -  **[Aliens-Eye](https://github.com/arxhr007/Aliens_eye)**<br>
-\\___ **AI**-powered **OSINT** engine to discover and map **840+** social media identities across the web<br>
+\\___**AI**-powered **OSINT** engine to discover and map **840+** social media identities across the web<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `Python`, `Bash`<br>
 
 -  **[Amma](https://github.com/arxhr007/amma)**<br>
@@ -39,7 +39,7 @@ CSE undergraduate, Full-Stack & AI/ML Engineer. I build everything from Rust bas
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `FastAPI`, `LangGraph`, `ChromaDB`<br>
 
 -  **[Wifi-Strike](https://github.com/arxhr007/wifistrike)**<br>
-\\___ Pure python Automated **WiFi Deauther** and packet injection.<br>
+\\___Pure python Automated **WiFi Deauther** and packet injection.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `Python`, `Bash`<br>
 
 -  **[Malware-Sandbox-Evasion](https://github.com/arxhr007/Malware-Sandbox-Evasion)**<br>
