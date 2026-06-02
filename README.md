@@ -42,7 +42,7 @@ CSE undergraduate, Full-Stack & AI/ML Engineer. I build everything from Rust bas
 \\___Pure python Automated **WiFi Deauther** and packet injection.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `Python`, `Bash`<br>
 
--  **[Malware-Sandbox-Evasion](https://github.com/arxhr007/Sandbox-Detection-Techniques)**<br>
+-  **[Sandbox-Detection-Techniques](https://github.com/arxhr007/Sandbox-Detection-Techniques)**<br>
 \\__Advanced Sandbox Detection Techniques using C.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `C`, `MarkDown`<br>
 
