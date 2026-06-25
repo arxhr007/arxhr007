@@ -2,7 +2,7 @@
 
 ### Aaron Thomas
 
-CSE undergraduate, Full-Stack & AI/ML Engineer. I build everything from Rust based compilers to full-stack systems, including Indian government LMS and College CMS Platforms. After years of exploring the depths of cybersecurity and reverse engineering, I’ve pivoted to AI/ML engineering specifically focused on LLM-based applications and AI agents.
+CSE undergraduate, Full-Stack & AI/ML Engineer. I build everything from Rust based compilers to full-stack systems, including government CMS and LMS Platforms. After years of exploring the depths of cybersecurity and reverse engineering, I’ve pivoted to AI/ML engineering specifically focused on LLM-based applications and AI agents.
 
 <br clear="right"/>
 
@@ -30,9 +30,11 @@ CSE undergraduate, Full-Stack & AI/ML Engineer. I build everything from Rust bas
 \\__A **malayalam** Programming language & **Interpreter** .<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `Rust`<br>
 
-- **[Sahrdaya RagX](https://github.com/arxhr007/sahrdaya_ragx)**<br>
-\\___Dynamic RAG system for Sahrdaya College with hybrid retrieval and  Data ingestion.<br>
+- **[RagPilot](https://github.com/arxhr007/RagPilot) (Still under devlopment)**<br>
+\\___Adaptive Multi-RAG orchestrator that ingests files, tables, and websites, automatically selecting the optimal RAG strategy for grounded, low-cost responses.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `FastAPI`, `LangChain`, `FAISS + BM25`<br>
+
+
 
 - **[NeuroLearn](https://github.com/arxhr007/neurolearn)**<br>
 \\___Malayalam Adaptive AI Tutor for Neurodivergent Learners.<br>
