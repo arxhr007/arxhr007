@@ -32,7 +32,7 @@ CSE undergraduate, Full-Stack & AI/ML Engineer. I build everything from Rust bas
 
 - **[RagPilot](https://github.com/arxhr007/RagPilot) (Still under devlopment)**<br>
 \\___Adaptive Multi-RAG orchestrator that ingests files, tables, and websites, automatically selecting the optimal RAG strategy for grounded, low-cost responses.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `FastAPI`, `LangChain`, `FAISS + BM25`<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `FastAPI`, `LangGraph`, `ChromaDB`, `OpenAI` <br>
 
 
 
