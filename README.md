@@ -15,7 +15,7 @@ CSE undergraduate, Full-Stack & AI/ML Engineer. I build everything from Rust bas
   • 
 </p>
 
-### [ Read my Security research [blogs](https://arxhr007.tech/blog) ]
+
 
 ***
 
