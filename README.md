@@ -32,11 +32,6 @@ CSE undergraduate, Full-Stack & AI/ML Engineer. I build everything from Rust bas
 \\__Advanced Sandbox Detection Techniques using C.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `C`, `MarkDown`<br>
 
--  **[Wifi-Strike](https://github.com/arxhr007/wifistrike)**<br>
-\\___Pure python Automated **WiFi Deauther** and packet injection.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `Python`, `Bash`<br>
-
-
 
 -  **[Amma](https://github.com/arxhr007/amma)**<br>
 \\__A **malayalam** Programming language & **Interpreter** .<br>
@@ -47,10 +42,13 @@ CSE undergraduate, Full-Stack & AI/ML Engineer. I build everything from Rust bas
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `FastAPI`, `LangGraph`, `ChromaDB`, `OpenAI` <br>
 
 
-
 - **[NeuroLearn](https://github.com/arxhr007/neurolearn)**<br>
 \\___Malayalam Adaptive AI Tutor for Neurodivergent Learners.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `FastAPI`, `LangGraph`, `ChromaDB`<br>
+
+-  **[Wifi-Strike](https://github.com/arxhr007/wifistrike)**<br>
+\\___Pure python Automated **WiFi Deauther** and packet injection.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `Python`, `Bash`<br>
 
 
 
