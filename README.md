@@ -9,9 +9,9 @@ CSE undergraduate, Full-Stack & AI/ML Engineer. I build everything from Rust bas
 
 <p align="center">
   • <a href="https://arxhr007.github.io/">Portfolio</a>
-  • <a href="https://arxhr007.tech">Personal</a>
-  • <a href="https://arxhr007.tech/blog">Blog</a>
-  • <a href="https://arxhr007.tech/Aaron_Thomas.pdf">Resume</a>
+  • <a href="https://arxhr007.vercel.app">Personal</a>
+  • <a href="https://arxhr007.github.io/blog">Blog</a>
+  • <a href="https://arxhr007.github.io/Aaron_Thomas.pdf">Resume</a>
   • 
 </p>
 
