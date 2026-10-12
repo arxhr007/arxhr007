@@ -53,14 +53,3 @@ CSE undergraduate, Full-Stack & AI/ML Engineer. I build everything from Rust bas
 
 
 
-<!--
-
-🩸 I am currently working on **AI based Metamorphic engine for evading Signature-Based Malware Detection** using `c` , `asm` and `python`. 🔍💻   -->
-
-<!--
-<a href="https://github.com/arxhr007/Aliens_eye" target="blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arxhr007&repo=Aliens_eye&show_icons=true&theme=chartreuse-dark"></a>
-<a href="https://github.com/arxhr007/wifistrike" target="blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arxhr007&repo=wifistrike&show_icons=true&theme=chartreuse-dark"></a> -->
-<!--
-[![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=arxhr007&bg_color=transparent&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=ffffff&hide_border=true)](https://github.com/arxhr007)
--->
-
