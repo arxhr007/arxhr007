@@ -28,6 +28,11 @@ CSE undergraduate, Full-Stack & AI/ML Engineer. I build everything from Rust bas
 \\___**AI**-powered **OSINT** engine to discover and map **840+** social media identities across the web<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `Python`, `Bash`<br>
 
+- **[lxask](https://github.com/arxhr007/lxask)**<br>
+\\___Offline Linux command assistant: 1.5B local model, 1.1 GB disk, 1.3 GB RAM, no GPU, about 2 s per answer.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `Rust`, `llama.cpp`, `Python`, `LoRA` <br>
+
+
 -  **[Sandbox-Detection-Techniques](https://github.com/arxhr007/Sandbox-Detection-Techniques)**<br>
 \\__Advanced Sandbox Detection Techniques using C.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `C`, `MarkDown`<br>
@@ -37,9 +42,6 @@ CSE undergraduate, Full-Stack & AI/ML Engineer. I build everything from Rust bas
 \\__A **malayalam** Programming language & **Interpreter** .<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `Rust`<br>
 
-- **[RagPilot](https://github.com/arxhr007/RagPilot) (Still under devlopment)**<br>
-\\___Adaptive Multi-RAG orchestrator that ingests files, tables, and websites, automatically selecting the optimal RAG strategy for grounded, low-cost responses.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `FastAPI`, `LangGraph`, `ChromaDB`, `OpenAI` <br>
 
 
 - **[NeuroLearn](https://github.com/arxhr007/neurolearn)**<br>
