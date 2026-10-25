@@ -28,7 +28,9 @@ CSE undergraduate, Full-Stack & AI/ML Engineer. I build everything from Rust bas
 \\___**AI**-powered **OSINT** engine to discover and map **840+** social media identities across the web<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `Python`, `Bash`<br>
 
-
+- **[lxask](https://github.com/arxhr007/lxask)**<br>
+\\___Offline Linux command assistant: 1.5B local model, 1.1 GB disk, 1.3 GB RAM, no GPU, about 2 s per answer.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ Rust, llama.cpp, Python, LoRA <br>
 
 
 -  **[Sandbox-Detection-Techniques](https://github.com/arxhr007/Sandbox-Detection-Techniques)**<br>
