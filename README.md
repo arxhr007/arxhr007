@@ -98,7 +98,7 @@ CSE undergraduate, Full-Stack & AI/ML Engineer. I build everything from Rust-bas
   <a href="https://github.com/projectdiscovery/httpx/pull/2693"><b>projectdiscovery/httpx #2693</b></a>
   <img src="https://img.shields.io/github/stars/projectdiscovery/httpx?style=flat-square&amp;label=stars" />
   <br>
-  Pattern-matching engine for malware research and threat detection.
+  Fast HTTP probing tool for web reconnaissance and service discovery.
 </p>
 
 <br>
