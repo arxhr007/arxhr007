@@ -92,6 +92,15 @@ CSE undergraduate, Full-Stack & AI/ML Engineer. I build everything from Rust-bas
   Pattern-matching engine for malware research and threat detection.
 </p>
 
+
+<p>
+  <img src="https://img.shields.io/badge/●-8F454B?style=flat-square&amp;label=" width="9" height="9" />
+  <a href="https://github.com/projectdiscovery/httpx/pull/2693"><b>projectdiscovery/httpx #2693</b></a>
+  <img src="https://img.shields.io/github/stars/projectdiscovery/httpx?style=flat-square&amp;label=stars" />
+  <br>
+  Pattern-matching engine for malware research and threat detection.
+</p>
+
 <br>
 
 
