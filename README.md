@@ -101,6 +101,14 @@ CSE undergraduate, Full-Stack & AI/ML Engineer. I build everything from Rust-bas
   Fast HTTP probing tool for web reconnaissance and service discovery.
 </p>
 
+<p>
+  <img src="https://img.shields.io/badge/●-8F454B?style=flat-square&amp;label=" width="9" height="9" />
+  <a href="https://github.com/Orkas-AI/Orkas/pull/140"><b>Orkas-AI/Orkas #140</b></a>
+  <img src="https://img.shields.io/github/stars/Orkas-AI/Orkas?style=flat-square&amp;label=stars" />
+  <br>
+  Local-first AI team that orchestrates 16 specialist agents and coding tools to automate desktop workflows.
+</p>
+
 <br>
 
 
