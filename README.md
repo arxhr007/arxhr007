@@ -15,9 +15,7 @@ CSE undergraduate, Full-Stack & AI/ML Engineer. I build everything from Rust-bas
 
 ***
 
-<table>
-<tr>
-<td width="60%" valign="top">
+
 
 ## projects:
 
@@ -46,74 +44,86 @@ CSE undergraduate, Full-Stack & AI/ML Engineer. I build everything from Rust-bas
   &#92;___ Pure Python automated **WiFi Deauther** and packet injection.<br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &#92;_ `Python`, `Bash`<br>
 
-</td>
-<td width="40%" valign="top">
+
+
 
 ## contributions:
 
+<table>
+<tr>
+<td width="50%" valign="top">
 
 <p>
-  <img src="https://img.shields.io/badge/●-8F454B?style=flat-square&amp;label=" width="9" height="9" />
-  <a href="https://github.com/radareorg/radare2/pull/27203"><b>radareorg/radare2 #27203</b></a>
-  <img src="https://img.shields.io/github/stars/radareorg/radare2?style=flat-square&amp;label=stars" />
-  <br>
-  Reverse engineering and binary analysis framework.
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/●-8F454B?style=flat-square&amp;label=" width="9" height="9" />
-  <a href="https://github.com/radareorg/radare2/pull/27204"><b>radareorg/radare2 #27204</b></a>
-  <img src="https://img.shields.io/github/stars/radareorg/radare2?style=flat-square&amp;label=stars" />
-  <br>
-  Reverse engineering and binary analysis framework.
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/●-8F454B?style=flat-square&amp;label=" width="9" height="9" />
-  <a href="https://github.com/projectdiscovery/nuclei/pull/7959"><b>projectdiscovery/nuclei #7959</b></a>
-  <img src="https://img.shields.io/github/stars/projectdiscovery/nuclei?style=flat-square&amp;label=stars" />
-  <br>
-  Fast, template-based vulnerability scanner.
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/●-8F454B?style=flat-square&amp;label=" width="9" height="9" />
-  <a href="https://github.com/mvt-project/mvt/pull/984"><b>mvt-project/mvt #984</b></a>
-  <img src="https://img.shields.io/github/stars/mvt-project/mvt?style=flat-square&amp;label=stars" />
-  <br>
-  Mobile device forensic toolkit for detecting signs of compromise.
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/●-8F454B?style=flat-square&amp;label=" width="9" height="9" />
-  <a href="https://github.com/VirusTotal/yara-x/pull/829"><b>VirusTotal/yara-x #829</b></a>
-  <img src="https://img.shields.io/github/stars/VirusTotal/yara-x?style=flat-square&amp;label=stars" />
-  <br>
-  Pattern-matching engine for malware research and threat detection.
-</p>
-
-
-<p>
-  <img src="https://img.shields.io/badge/●-8F454B?style=flat-square&amp;label=" width="9" height="9" />
-  <a href="https://github.com/projectdiscovery/httpx/pull/2693"><b>projectdiscovery/httpx #2693</b></a>
-  <img src="https://img.shields.io/github/stars/projectdiscovery/httpx?style=flat-square&amp;label=stars" />
-  <br>
-  Fast HTTP probing tool for web reconnaissance and service discovery.
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/●-8F454B?style=flat-square&amp;label=" width="9" height="9" />
-  <a href="https://github.com/Orkas-AI/Orkas/pull/140"><b>Orkas-AI/Orkas #140</b></a>
-  <img src="https://img.shields.io/github/stars/Orkas-AI/Orkas?style=flat-square&amp;label=stars" />
-  <br>
-  Local-first AI team that orchestrates 16 specialist agents and coding tools to automate desktop workflows.
-</p>
-
+<img src="https://img.shields.io/badge/●-8F454B?style=flat-square&amp;label=" width="9" height="9" />
+<a href="https://github.com/radareorg/radare2/pull/27203"><b>radareorg/radare2 #27203</b></a>
+<img src="https://img.shields.io/github/stars/radareorg/radare2?style=flat-square&amp;label=stars" />
 <br>
+Reverse engineering and binary analysis framework.
+</p>
 
+<p>
+<img src="https://img.shields.io/badge/●-8F454B?style=flat-square&amp;label=" width="9" height="9" />
+<a href="https://github.com/projectdiscovery/nuclei/pull/7959"><b>projectdiscovery/nuclei #7959</b></a>
+<img src="https://img.shields.io/github/stars/projectdiscovery/nuclei?style=flat-square&amp;label=stars" />
+<br>
+Fast, template-based vulnerability scanner.
+</p>
 
-[View all contributions →](https://github.com/arxhr007?tab=overview)
+<p>
+<img src="https://img.shields.io/badge/●-8F454B?style=flat-square&amp;label=" width="9" height="9" />
+<a href="https://github.com/VirusTotal/yara-x/pull/829"><b>VirusTotal/yara-x #829</b></a>
+<img src="https://img.shields.io/github/stars/VirusTotal/yara-x?style=flat-square&amp;label=stars" />
+<br>
+Pattern-matching engine for malware research and threat detection.
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/●-8F454B?style=flat-square&amp;label=" width="9" height="9" />
+<a href="https://github.com/Orkas-AI/Orkas/pull/140"><b>Orkas-AI/Orkas #140</b></a>
+<img src="https://img.shields.io/github/stars/Orkas-AI/Orkas?style=flat-square&amp;label=stars" />
+<br>
+Local-first AI team orchestrating specialist agents and coding tools.
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+<p>
+<img src="https://img.shields.io/badge/●-8F454B?style=flat-square&amp;label=" width="9" height="9" />
+<a href="https://github.com/radareorg/radare2/pull/27204"><b>radareorg/radare2 #27204</b></a>
+<img src="https://img.shields.io/github/stars/radareorg/radare2?style=flat-square&amp;label=stars" />
+<br>
+Reverse engineering and binary analysis framework.
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/●-8F454B?style=flat-square&amp;label=" width="9" height="9" />
+<a href="https://github.com/mvt-project/mvt/pull/984"><b>mvt-project/mvt #984</b></a>
+<img src="https://img.shields.io/github/stars/mvt-project/mvt?style=flat-square&amp;label=stars" />
+<br>
+Mobile device forensic toolkit for detecting signs of compromise.
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/●-8F454B?style=flat-square&amp;label=" width="9" height="9" />
+<a href="https://github.com/projectdiscovery/httpx/pull/2693"><b>projectdiscovery/httpx #2693</b></a>
+<img src="https://img.shields.io/github/stars/projectdiscovery/httpx?style=flat-square&amp;label=stars" />
+<br>
+Fast HTTP probing tool for web reconnaissance.
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/●-8F454B?style=flat-square&amp;label=" width="9" height="9" />
+<a href="https://github.com/fastfetch-cli/fastfetch/pull/2694"><b>fastfetch-cli/fastfetch #2693</b></a>
+<img src="https://img.shields.io/github/stars/fastfetch-cli/fastfetch?style=flat-square&amp;label=stars" />
+<br>
+A fast and customizable system information tool for the terminal.
+</p>
 
 </td>
 </tr>
 </table>
+
+<p align="center">
+<a href="https://github.com/arxhr007?tab=overview">View all contributions →</a>
+</p>
