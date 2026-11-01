@@ -52,7 +52,14 @@ CSE undergraduate, Full-Stack & AI/ML Engineer. I build everything from Rust-bas
 <table>
 <tr>
 <td width="50%" valign="top">
-
+<p>
+<img src="https://img.shields.io/badge/●-8F454B?style=flat-square&amp;label=" width="9" height="9" />
+<a href="https://github.com/apache/airflow/pull/76142"><b>apache/airflow #76142</b></a>
+<img src="https://img.shields.io/github/stars/apache/airflow?style=flat-square&amp;label=stars" />
+<br>
+Workflow orchestration platform for authoring, scheduling, and monitoring data pipelines.
+</p> 
+  
 <p>
 <img src="https://img.shields.io/badge/●-8F454B?style=flat-square&amp;label=" width="9" height="9" />
 <a href="https://github.com/radareorg/radare2/pull/27203"><b>radareorg/radare2 #27203</b></a>
@@ -118,6 +125,14 @@ Fast HTTP probing tool for web reconnaissance.
 <img src="https://img.shields.io/github/stars/fastfetch-cli/fastfetch?style=flat-square&amp;label=stars" />
 <br>
 A fast and customizable system information tool for the terminal.
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/●-8F454B?style=flat-square&amp;label=" width="9" height="9" />
+<a href="https://github.com/projectdiscovery/subfinder/pull/1986"><b>projectdiscovery/subfinder #1986</b></a>
+<img src="https://img.shields.io/github/stars/projectdiscovery/subfinder?style=flat-square&amp;label=stars" />
+<br>
+Fast passive subdomain enumeration tool for reconnaissance and attack surface discovery.
 </p>
 
 </td>
