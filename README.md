@@ -86,11 +86,12 @@ Pattern-matching engine for malware research and threat detection.
 
 <p>
 <img src="https://img.shields.io/badge/●-8F454B?style=flat-square&amp;label=" width="9" height="9" />
-<a href="https://github.com/Orkas-AI/Orkas/pull/140"><b>Orkas-AI/Orkas #140</b></a>
-<img src="https://img.shields.io/github/stars/Orkas-AI/Orkas?style=flat-square&amp;label=stars" />
+<a href="https://github.com/python-pillow/Pillow/pull/10381"><b>python-pillow/Pillow #10381</b></a>
+<img src="https://img.shields.io/github/stars/python-pillow/Pillow?style=flat-square&amp;label=stars" />
 <br>
-Local-first AI team orchestrating specialist agents and coding tools.
+Python imaging library providing image processing capabilities and support for numerous image formats.
 </p>
+
 
 </td>
 <td width="50%" valign="top">
@@ -134,6 +135,15 @@ A fast and customizable system information tool for the terminal.
 <br>
 Fast passive subdomain enumeration tool for reconnaissance and attack surface discovery.
 </p>
+
+<p>
+<img src="https://img.shields.io/badge/●-8F454B?style=flat-square&amp;label=" width="9" height="9" />
+<a href="https://github.com/Orkas-AI/Orkas/pull/140"><b>Orkas-AI/Orkas #140</b></a>
+<img src="https://img.shields.io/github/stars/Orkas-AI/Orkas?style=flat-square&amp;label=stars" />
+<br>
+Local-first AI team orchestrating specialist agents and coding tools.
+</p>
+
 
 </td>
 </tr>
