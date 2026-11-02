@@ -89,10 +89,16 @@ Pattern-matching engine for malware research and threat detection.
 <a href="https://github.com/python-pillow/Pillow/pull/10381"><b>python-pillow/Pillow #10381</b></a>
 <img src="https://img.shields.io/github/stars/python-pillow/Pillow?style=flat-square&amp;label=stars" />
 <br>
-Python imaging library providing image processing capabilities and support for numerous image formats.
+Python library for image processing and manipulation.
 </p>
 
-
+<p>
+<img src="https://img.shields.io/badge/●-8F454B?style=flat-square&amp;label=" width="9" height="9" />
+<a href="https://github.com/TabularisDB/tabularis/pull/1355"><b>TabularisDB/tabularis #1355</b></a>
+<img src="https://img.shields.io/github/stars/TabularisDB/tabularis?style=flat-square&amp;label=stars" />
+<br>
+Open-source desktop SQL workspace with MCP and AI support.
+</p>
 </td>
 <td width="50%" valign="top">
 
