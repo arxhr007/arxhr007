@@ -147,7 +147,13 @@ Fast HTTP probing tool for web reconnaissance.
 <br>
 A fast and customizable system information tool for the terminal.
 </p>
-
+<p>
+<img src="https://img.shields.io/badge/●-8F454B?style=flat-square&amp;label=" width="9" height="9" />
+<a href="https://github.com/bettercap/bettercap/pull/1313"><b>bettercap/bettercap #1313</b></a>
+<img src="https://img.shields.io/github/stars/bettercap/bettercap?style=flat-square&amp;label=stars" />
+<br>
+Network reconnaissance and penetration testing framework.
+</p>
 <p>
 <img src="https://img.shields.io/badge/●-8F454B?style=flat-square&amp;label=" width="9" height="9" />
 <a href="https://github.com/projectdiscovery/subfinder/pull/1986"><b>projectdiscovery/subfinder #1986</b></a>
@@ -164,7 +170,13 @@ Fast passive subdomain enumeration tool for reconnaissance and attack surface di
 Local-first AI team orchestrating specialist agents and coding tools.
 </p>
 
-
+<p>
+<img src="https://img.shields.io/badge/●-8F454B?style=flat-square&amp;label=" width="9" height="9" />
+<a href="https://github.com/KnockOutEZ/wigolo/pull/667"><b>KnockOutEZ/wigolo #667</b></a>
+<img src="https://img.shields.io/github/stars/KnockOutEZ/wigolo?style=flat-square&amp;label=stars" />
+<br>
+Local-first web search, crawling, and research toolkit for AI agents.
+</p>
 </td>
 </tr>
 </table>
