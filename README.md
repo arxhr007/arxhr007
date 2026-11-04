@@ -81,15 +81,14 @@ Distributed event streaming platform for real-time data pipelines and streaming 
 <br>
 Python client for Redis, a fast in-memory data store.
 </p>
-
 <p>
 <img src="https://img.shields.io/badge/●-8F454B?style=flat-square&amp;label=" width="9" height="9" />
-<a href="https://github.com/radareorg/radare2/pull/27203"><b>radareorg/radare2 #27203</b></a>,
-<a href="https://github.com/radareorg/radare2/pull/27204"><b>#27204</b></a>
-<img src="https://img.shields.io/github/stars/radareorg/radare2?style=flat-square&amp;label=stars" />
+<a href="https://github.com/docker/docker-agent/pull/4787"><b>docker/docker-agent #4787</b></a>
+<img src="https://img.shields.io/github/stars/docker/docker-agent?style=flat-square&amp;label=stars" />
 <br>
-Reverse engineering and binary analysis framework.
+Open-source AI agent framework for building and running AI agents with Docker.
 </p>
+
 <p>
 <img src="https://img.shields.io/badge/●-8F454B?style=flat-square&amp;label=" width="9" height="9" />
 <a href="https://github.com/awslabs/llrt/pull/1864"><b>awslabs/llrt #1864</b></a>
@@ -116,14 +115,15 @@ Fast, template-based vulnerability scanner.
 Pattern-matching engine for malware research and threat detection.
 </p>
 
+
 <p>
 <img src="https://img.shields.io/badge/●-8F454B?style=flat-square&amp;label=" width="9" height="9" />
-<a href="https://github.com/python-pillow/Pillow/pull/10381"><b>python-pillow/Pillow #10381</b></a>
-<img src="https://img.shields.io/github/stars/python-pillow/Pillow?style=flat-square&amp;label=stars" />
+<a href="https://github.com/radareorg/radare2/pull/27203"><b>radareorg/radare2 #27203</b></a>,
+<a href="https://github.com/radareorg/radare2/pull/27204"><b>#27204</b></a>
+<img src="https://img.shields.io/github/stars/radareorg/radare2?style=flat-square&amp;label=stars" />
 <br>
-Python library for image processing and manipulation.
+Reverse engineering and binary analysis framework.
 </p>
-
 
 
 </td>
@@ -135,7 +135,13 @@ Python library for image processing and manipulation.
 <br>
 Open-source desktop SQL workspace with MCP and AI support.
 </p>
-
+<p>
+<img src="https://img.shields.io/badge/●-8F454B?style=flat-square&amp;label=" width="9" height="9" />
+<a href="https://github.com/python-pillow/Pillow/pull/10381"><b>python-pillow/Pillow #10381</b></a>
+<img src="https://img.shields.io/github/stars/python-pillow/Pillow?style=flat-square&amp;label=stars" />
+<br>
+Python library for image processing and manipulation.
+</p>
 
 
 <p>
