@@ -90,7 +90,15 @@ Python client for Redis, a fast in-memory data store.
 <br>
 Reverse engineering and binary analysis framework.
 </p>
-
+<p>
+<img src="https://img.shields.io/badge/●-8F454B?style=flat-square&amp;label=" width="9" height="9" />
+<a href="https://github.com/awslabs/llrt/pull/1864"><b>awslabs/llrt #1864</b></a>
+&nbsp;|&nbsp;
+<a href="https://github.com/awslabs/llrt/pull/1865"><b>#1865</b></a>
+<img src="https://img.shields.io/github/stars/awslabs/llrt?style=flat-square&amp;label=stars" />
+<br>
+Lightweight JavaScript runtime focused on fast startup and low memory usage, built on Rust.
+</p>
 <p>
 <img src="https://img.shields.io/badge/●-8F454B?style=flat-square&amp;label=" width="9" height="9" />
 <a href="https://github.com/projectdiscovery/nuclei/pull/7959"><b>projectdiscovery/nuclei #7959</b></a>
