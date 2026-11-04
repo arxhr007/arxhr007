@@ -59,6 +59,14 @@ CSE undergraduate, Full-Stack & AI/ML Engineer. I build everything from Rust-bas
 <br>
 Workflow orchestration platform for authoring, scheduling, and monitoring data pipelines.
 </p> 
+
+  <p>
+<img src="https://img.shields.io/badge/●-8F454B?style=flat-square&amp;label=" width="9" height="9" />
+<a href="https://github.com/ggml-org/llama.cpp/pull/31631"><b>ggml-org/llama.cpp #31631</b></a>
+<img src="https://img.shields.io/github/stars/ggml-org/llama.cpp?style=flat-square&amp;label=stars" />
+<br>
+Inference engine and C/C++ implementation for running large language models locally.
+</p>
   <p>
 <img src="https://img.shields.io/badge/●-8F454B?style=flat-square&amp;label=" width="9" height="9" />
 <a href="https://github.com/apache/kafka/pull/24069"><b>apache/kafka #24069</b></a>
