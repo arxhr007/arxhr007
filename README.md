@@ -117,13 +117,7 @@ Python library for image processing and manipulation.
 </p>
 
 
-<p>
-<img src="https://img.shields.io/badge/●-8F454B?style=flat-square&amp;label=" width="9" height="9" />
-<a href="https://github.com/awslabs/amazon-documentdb-tools/pull/217"><b>awslabs/amazon-documentdb-tools #217</b></a>
-<img src="https://img.shields.io/github/stars/awslabs/amazon-documentdb-tools?style=flat-square&amp;label=stars" />
-<br>
-Tools and utilities for working with Amazon DocumentDB.
-</p>
+
 </td>
 <td width="50%" valign="top">
 <p>
@@ -190,6 +184,14 @@ Local-first AI team orchestrating specialist agents and coding tools.
 <img src="https://img.shields.io/github/stars/KnockOutEZ/wigolo?style=flat-square&amp;label=stars" />
 <br>
 Local-first web search, crawling, and research toolkit for AI agents.
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/●-8F454B?style=flat-square&amp;label=" width="9" height="9" />
+<a href="https://github.com/awslabs/amazon-documentdb-tools/pull/217"><b>awslabs/amazon-documentdb-tools #217</b></a>
+<img src="https://img.shields.io/github/stars/awslabs/amazon-documentdb-tools?style=flat-square&amp;label=stars" />
+<br>
+Tools and utilities for working with Amazon DocumentDB.
 </p>
 </td>
 </tr>
