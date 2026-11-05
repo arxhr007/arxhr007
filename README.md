@@ -124,7 +124,13 @@ Pattern-matching engine for malware research and threat detection.
 <br>
 Reverse engineering and binary analysis framework.
 </p>
-
+<p>
+<img src="https://img.shields.io/badge/●-8F454B?style=flat-square&amp;label=" width="9" height="9" />
+<a href="https://github.com/strace/strace/pull/434"><b>strace/strace #434</b></a>
+<img src="https://img.shields.io/github/stars/strace/strace?style=flat-square&amp;label=stars" />
+<br>
+Linux diagnostic, debugging, and system-call tracing utility.
+</p>
 
 </td>
 <td width="50%" valign="top">
