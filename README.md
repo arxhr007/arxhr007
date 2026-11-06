@@ -109,7 +109,7 @@ Fast, template-based vulnerability scanner.
 <p>
 <img src="https://img.shields.io/badge/●-8F454B?style=flat-square&amp;label=" width="9" height="9" />
 <a href="https://github.com/VirusTotal/yara-x/pull/833"><b>VirusTotal/yara-x #833</b></a>
-  <a href="https://github.com/radareorg/radare2/pull/27204"><b>#829</b></a>
+  <a href=https://github.com/VirusTotal/yara-x/pull/829"><b>#829</b></a>
 <img src="https://img.shields.io/github/stars/VirusTotal/yara-x?style=flat-square&amp;label=stars" />
 <br>
 Pattern-matching engine for malware research and threat detection.
