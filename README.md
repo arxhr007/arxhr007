@@ -124,13 +124,6 @@ Pattern-matching engine for malware research and threat detection.
 <br>
 Reverse engineering and binary analysis framework.
 </p>
-<p>
-<img src="https://img.shields.io/badge/●-8F454B?style=flat-square&amp;label=" width="9" height="9" />
-<a href="https://github.com/strace/strace/pull/434"><b>strace/strace #434</b></a>
-<img src="https://img.shields.io/github/stars/strace/strace?style=flat-square&amp;label=stars" />
-<br>
-Linux diagnostic, debugging, and system-call tracing utility.
-</p>
 
 </td>
 <td width="50%" valign="top">
@@ -205,18 +198,26 @@ Local-first AI team orchestrating specialist agents and coding tools.
 <br>
 Local-first web search, crawling, and research toolkit for AI agents.
 </p>
-
 <p>
 <img src="https://img.shields.io/badge/●-8F454B?style=flat-square&amp;label=" width="9" height="9" />
-<a href="https://github.com/awslabs/amazon-documentdb-tools/pull/217"><b>awslabs/amazon-documentdb-tools #217</b></a>
-<img src="https://img.shields.io/github/stars/awslabs/amazon-documentdb-tools?style=flat-square&amp;label=stars" />
+<a href="https://github.com/strace/strace/pull/434"><b>strace/strace #434</b></a>
+<img src="https://img.shields.io/github/stars/strace/strace?style=flat-square&amp;label=stars" />
 <br>
-Tools and utilities for working with Amazon DocumentDB.
+Linux diagnostic, debugging, and system-call tracing utility.
 </p>
-</td>
-</tr>
+
+
+
 </table>
 
 <p align="center">
-<a href="https://github.com/arxhr007?tab=overview">View all contributions →</a>
+  
+**Additional contributions:** 
+  
+<a href="https://github.com/awslabs/amazon-documentdb-tools/pull/217"><b>awslabs/amazon-documentdb-tools #217</b></a> |
+  <a href="https://github.com/graphql-python/graphql-core/pull/295"><b>graphql-python/graphql-core #295</b></a> |
+<a href="https://github.com/open-telemetry/opentelemetry-collector-contrib/pull/52648"><b>opentelemetry-collector-contrib #52648</b></a> |
+<a href="https://github.com/frida/frida-tools/pull/209"><b>frida/frida-tools #209</b></a>
+
+
 </p>
