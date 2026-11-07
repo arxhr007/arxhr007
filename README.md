@@ -217,7 +217,7 @@ Linux diagnostic, debugging, and system-call tracing utility.
 <a href="https://github.com/awslabs/amazon-documentdb-tools/pull/217"><b>awslabs/amazon-documentdb-tools #217</b></a> |
   <a href="https://github.com/graphql-python/graphql-core/pull/295"><b>graphql-python/graphql-core #295</b></a> |
 <a href="https://github.com/open-telemetry/opentelemetry-collector-contrib/pull/52648"><b>opentelemetry-collector-contrib #52648</b></a> |
-<a href="https://github.com/frida/frida-tools/pull/209"><b>frida/frida-tools #209</b></a>
-
+<a href="https://github.com/frida/frida-tools/pull/209"><b>frida/frida-tools #209</b></a> |
+<a href="https://github.com/graphql-python/graphql-core/pull/295"><b>graphql-python/graphql-core #295</b></a>
 
 </p>
