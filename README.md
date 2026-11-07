@@ -21,7 +21,7 @@ CSE undergraduate, Full-Stack & AI/ML Engineer. I build everything from Rust-bas
 
 
 - **[Aliens-Eye](https://github.com/arxhr007/Aliens_eye)**<br>
-  &#92;___ **AI**-powered **OSINT** engine to discover and map **840+** social media identities across the web<br>
+  &#92;___ **AI**-powered **OSINT** engine to discover and map **7,700+** social media identities across the web<br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &#92;_ `Python`, `Bash`<br>
 
 - **[lxask](https://github.com/arxhr007/lxask)**<br>
