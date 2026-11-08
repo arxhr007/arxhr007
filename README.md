@@ -12,9 +12,7 @@
 <a href="mailto:aaron123thomas098@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/email-%E2%86%97-ffffff?style=flat-square&labelColor=ffffff"><img src="https://img.shields.io/badge/email-%E2%86%97-000000?style=flat-square&labelColor=000000" alt="email"></picture></a>
 </p>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/div-torii-dark.svg"><img src="./assets/div-torii-light.svg" alt="" width="100%"></picture>
-
-<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/s-projects-dark.svg"><img src="./assets/s-projects-light.svg" alt="projects" height="44"></picture>
+### projects
 
 <table>
 <tr>
@@ -31,7 +29,7 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/div-katana-dark.svg"><img src="./assets/div-katana-light.svg" alt="" width="100%"></picture>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/s-top-dark.svg"><img src="./assets/s-top-light.svg" alt="top contributions" height="44"></picture>
+### top contributions
 
 <table>
 <tr><td align="center" width="6%"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/i-apacheairflow-dark.svg"><img src="./assets/i-apacheairflow-light.svg" alt="apache/airflow" width="28" height="28"></picture></td><td width="94%"><a href="https://github.com/apache/airflow/pull/76142"><b>apache/airflow</b> #76142</a> &nbsp;<img src="https://img.shields.io/github/stars/apache/airflow?style=flat-square&label=%E2%98%85&labelColor=000000&color=444444" alt="stars"><br>Secrets masker leaked part of a secret when another secret was its prefix — the whole value is now masked in logs.</td></tr>
@@ -44,9 +42,7 @@
 <tr><td align="center" width="6%"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/i-radare2-dark.svg"><img src="./assets/i-radare2-light.svg" alt="radareorg/radare2" width="48" height="16"></picture></td><td width="94%"><a href="https://github.com/radareorg/radare2/pull/27203"><b>radareorg/radare2</b> #27203</a> &nbsp;<img src="https://img.shields.io/github/stars/radareorg/radare2?style=flat-square&label=%E2%98%85&labelColor=000000&color=444444" alt="stars"><br>Added a value ruler to the <code>p==</code> column histogram, and <code>Cs</code> now rejects unexpected arguments (<a href="https://github.com/radareorg/radare2/pull/27204">#27204</a>).</td></tr>
 </table>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/div-wave-dark.svg"><img src="./assets/div-wave-light.svg" alt="" width="100%"></picture>
-
-<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/s-more-dark.svg"><img src="./assets/s-more-light.svg" alt="more contributions" height="44"></picture>
+### more contributions
 
 <table>
 <tr>
