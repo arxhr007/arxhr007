@@ -2,4 +2,5 @@
 <text x="2" y="38" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#ffffff" opacity=".55">01</text>
 <text x="34" y="40" font-family="Georgia, 'Times New Roman', serif" font-size="30" font-style="italic" fill="#ffffff">projects</text>
 <text x="164" y="39" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#ffffff" opacity=".55">— 作品</text>
-<rect x="34" y="50" width="520" height="1" fill="#ffffff" opacity=".25"/></svg>
+<rect x="34" y="50" width="520" height="1" fill="#ffffff" opacity=".25"/>
+<g fill="none" stroke="#ff8fab" stroke-width="1.6"><rect x="566" y="16" width="28" height="28" rx="3"/></g><text x="580" y="36" text-anchor="middle" font-size="17" font-weight="bold" fill="#ff8fab">作</text></svg>
