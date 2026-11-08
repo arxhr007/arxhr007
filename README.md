@@ -28,7 +28,7 @@
 <tr>
 <td align="center" width="33%" valign="top"><br><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/i-touchpad-dark.svg"><img src="./assets/i-touchpad-light.svg" alt="margin" width="36"></picture><br><a href="https://github.com/arxhr007/margin"><b>margin</b></a><br><sub>Touchpad edge & corner gestures — volume, brightness, seek & shortcuts</sub><br><sub><code>rust</code></sub><br><br></td>
 <td align="center" width="33%" valign="top"><br><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/i-scan-dark.svg"><img src="./assets/i-scan-light.svg" alt="Mudra-Recognition" width="36"></picture><br><a href="https://github.com/arxhr007/Bharatanatyam-Mudra-Recognition-ML"><b>Mudra-Recognition</b></a><br><sub>Real-time recognition of 50+ Bharatanatyam mudras via ML & computer vision</sub><br><sub><code>python</code></sub><br><br></td>
-<td width="33%"><br><img src="./assets/spacer.svg" width="1000" height="1" alt=""></td>
+<td align="center" width="33%" valign="top"><br><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/i-rag-dark.svg"><img src="./assets/i-rag-light.svg" alt="Sahrdaya-RAGx" width="36"></picture><br><a href="https://github.com/arxhr007/sahrdaya_ragx"><b>Sahrdaya-RAGx</b></a><br><sub>College RAG system — hybrid BM25+FAISS, GraphRAG, reranking & SQL routing</sub><br><sub><code>python</code></sub><br><br></td>
 </tr>
 </table>
 
