@@ -25,6 +25,11 @@
 <td align="center" width="33%" valign="top"><br><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/i-cube-dark.svg"><img src="./assets/i-cube-light.svg" alt="Sandbox-Detection" width="36"></picture><br><a href="https://github.com/arxhr007/Sandbox-Detection-Techniques"><b>Sandbox-Detection</b></a><br><sub>Advanced sandbox / VM detection techniques</sub><br><sub><code>c</code></sub><br><br></td>
 <td align="center" width="33%" valign="top"><br><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/i-wifi-dark.svg"><img src="./assets/i-wifi-light.svg" alt="Wifi-Strike" width="36"></picture><br><a href="https://github.com/arxhr007/wifistrike"><b>Wifi-Strike</b></a><br><sub>Pure-Python automated WiFi deauther & packet injection</sub><br><sub><code>python</code></sub><br><br></td>
 </tr>
+<tr>
+<td align="center" width="33%" valign="top"><br><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/i-touchpad-dark.svg"><img src="./assets/i-touchpad-light.svg" alt="margin" width="36"></picture><br><a href="https://github.com/arxhr007/margin"><b>margin</b></a><br><sub>Touchpad edge & corner gestures — volume, brightness, seek & shortcuts</sub><br><sub><code>rust</code></sub><br><br></td>
+<td align="center" width="33%" valign="top"><br><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/i-scan-dark.svg"><img src="./assets/i-scan-light.svg" alt="Mudra-Recognition" width="36"></picture><br><a href="https://github.com/arxhr007/Bharatanatyam-Mudra-Recognition-ML"><b>Mudra-Recognition</b></a><br><sub>Real-time recognition of 50+ Bharatanatyam mudras via ML & computer vision</sub><br><sub><code>python</code></sub><br><br></td>
+<td width="33%"><br><img src="./assets/spacer.svg" width="1000" height="1" alt=""></td>
+</tr>
 </table>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/div-katana-dark.svg"><img src="./assets/div-katana-light.svg" alt="" width="100%"></picture>
