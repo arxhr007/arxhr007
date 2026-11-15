@@ -75,6 +75,10 @@
 <td align="center" width="25%"><sub>KnockOutEZ</sub><br><a href="https://github.com/KnockOutEZ/wigolo"><b>wigolo</b></a><br><a href="https://github.com/KnockOutEZ/wigolo/pull/667">#667</a><br><img src="./assets/spacer.svg" width="1000" height="1" alt=""></td>
 <td align="center" width="25%"><sub>aws</sub><br><a href="https://github.com/aws/amazon-eks-pod-identity-webhook"><b>eks-pod-identity</b></a><br><a href="https://github.com/aws/amazon-eks-pod-identity-webhook/pull/323">#323</a><br><img src="./assets/spacer.svg" width="1000" height="1" alt=""></td>
 </tr>
+<tr>
+<td align="center" width="25%"><sub>CrowdStrike</sub><br><a href="https://github.com/CrowdStrike/falconpy"><b>falconpy</b></a><br><a href="https://github.com/CrowdStrike/falconpy/pull/1523">#1355</a><br><img src="./assets/spacer.svg" width="1000" height="1" alt=""></td>
+
+</tr>
 </table>
 
 <p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/footer-dark.svg"><img src="./assets/footer-light.svg" alt="" width="100%"></picture></p>
