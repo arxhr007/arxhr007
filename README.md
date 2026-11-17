@@ -12,7 +12,6 @@ Ex-cybersecurity & reverse engineering — now building LLM apps and AI agents.
 - **[NeuroLearn](https://github.com/arxhr007/neurolearn)** — Malayalam adaptive AI tutor for neurodivergent learners. `fastapi · langgraph · chromadb`
 - **[margin](https://github.com/arxhr007/margin)** — Touchpad edge & corner gestures — volume, brightness, seek & shortcuts. `rust`
 - **[Amma](https://github.com/arxhr007/amma)** — A Malayalam programming language & interpreter. `rust`
-
 - **[Sandbox-Detection](https://github.com/arxhr007/Sandbox-Detection-Techniques)** — Advanced sandbox / VM detection techniques. `c`
 - **[Wifi-Strike](https://github.com/arxhr007/wifistrike)** — Pure-Python automated WiFi deauther & packet injection. `python`
 
