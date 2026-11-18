@@ -18,6 +18,7 @@ Ex-cybersecurity & reverse engineering — now building LLM apps and AI agents.
 ### Open-Source contributions :
 
 - **apache/airflow** [#76142](https://github.com/apache/airflow/pull/76142) — secrets masker no longer leaks part of a secret when another secret is its prefix
+- **bitwarden/clients** [#24423](https://github.com/bitwarden/clients/pull/24423) — preventing silent loss of password and OTP data during imports
 - **ggml-org/llama.cpp** [#31631](https://github.com/ggml-org/llama.cpp/pull/31631) — `gguf-py` validates every tokenizer merge pair, catching malformed GGUF files early
 - **apache/kafka** [#24069](https://github.com/apache/kafka/pull/24069) — `ByteBufferAccessor` rejects negative sizes, hardening deserialization
 - **redis/redis-py** [#4556](https://github.com/redis/redis-py/pull/4556) — `CLIENT LIST` split on newlines only, fixing corrupted parsing
