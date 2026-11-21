@@ -3,8 +3,11 @@
 CSE undergrad · full-stack & AI/ML engineer · from Rust interpreters to government CMS & LMS platforms.
 Ex-cybersecurity & reverse engineering — now building LLM apps and AI agents.
 
-[portfolio](https://arxhr007.github.io/) · [personal](https://arxhr007.vercel.app) · [blog](https://arxhr007.github.io/blog) · [resume](https://arxhr007.github.io/Aaron_Thomas.pdf) · [email](mailto:aaron123thomas098@gmail.com)
+[portfolio](https://arxhr007.github.io/) · [personal](https://arxhr007.vercel.app) · [blog](https://arxhr007.github.io/blog) · [resume](https://arxhr007.github.io/Aaron_Thomas.pdf) 
 
+Interested in collaborating or discussing opportunities?
+
+- **Email:** [aaron123thomas098@gmail.com](mailto:aaron123thomas098@gmail.com)
 ### projects :
 
 - **[Aliens-Eye](https://github.com/arxhr007/Aliens_eye)** — AI-powered OSINT engine mapping 7,700+ social identities. `python · bash`
